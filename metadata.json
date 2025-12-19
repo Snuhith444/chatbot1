@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Pro Chat",
+  "description": "A sophisticated, high-performance chatbot powered by Gemini 3 Flash, featuring multimodal support, real-time streaming, and persistent chat history.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
